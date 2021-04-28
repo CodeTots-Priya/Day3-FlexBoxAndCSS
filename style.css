@@ -2,6 +2,7 @@ body {
   background-image: url("images/background.png");
   background-repeat: no-repeat;
   background-color: yellow;
+  margin: 0;
 }
 h1 {
   font-family: "Brush Script MT", cursive;
@@ -17,4 +18,14 @@ h1 {
   font-family: "Brush Script MT", cursive;
   font-size: 35px;
   color: green;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #a5fbfe;
+  font-family: monospace;
+  font-size: 20px;
+  height: 70px;
 }
