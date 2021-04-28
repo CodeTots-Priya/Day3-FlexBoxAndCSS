@@ -4,10 +4,12 @@ body {
   background-color: yellow;
   margin: 0;
 }
+
 h1 {
   font-family: "Brush Script MT", cursive;
   font-size: 50px;
   color: orangered;
+  margin-left: 20px;
 }
 .p1 {
   font-family: "Brush Script MT", cursive;
@@ -28,4 +30,15 @@ h1 {
   font-family: monospace;
   font-size: 20px;
   height: 70px;
+}
+.menu a {
+  padding: 10px;
+}
+
+.profile {
+  display: flex;
+}
+.info {
+  padding: 50px;
+  text-align: justify;
 }
