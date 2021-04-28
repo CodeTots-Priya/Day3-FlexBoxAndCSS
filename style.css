@@ -1,0 +1,20 @@
+body {
+  background-image: url("images/background.png");
+  background-repeat: no-repeat;
+  background-color: yellow;
+}
+h1 {
+  font-family: "Brush Script MT", cursive;
+  font-size: 50px;
+  color: orangered;
+}
+.p1 {
+  font-family: "Brush Script MT", cursive;
+  font-size: 35px;
+  color: orangered;
+}
+.p2 {
+  font-family: "Brush Script MT", cursive;
+  font-size: 35px;
+  color: green;
+}
